@@ -1,7 +1,0 @@
-﻿  Building Custom Rule C:/Users/Iris/Desktop/ws17-18/GPGPU/Assignment4/glew/CMakeLists.txt
-  CMake does not need to re-run because C:/Users/Iris/Desktop/ws17-18/GPGPU/Assignment4.build/glew/CMakeFiles/generate.stamp is up-to-date.
-cl : 命令行 warning D9002: 忽略未知选项“/O0”
-  glew.c
-    正在创建库 C:/Users/Iris/Desktop/ws17-18/GPGPU/Assignment4.build/glew/Debug/glew32.lib 和对象 C:/Users/Iris/Desktop/ws17-18/GPGPU/Assignment4.build/glew/Debug/glew32.exp
-  glew32.vcxproj -> C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4.build\glew\Debug\glew32.dll
-  glew32.vcxproj -> C:/Users/Iris/Desktop/ws17-18/GPGPU/Assignment4.build/glew/Debug/glew32.pdb (Full PDB)

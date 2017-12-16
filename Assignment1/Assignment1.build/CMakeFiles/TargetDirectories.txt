@@ -1,4 +1,0 @@
-C:/Users/Iris/Desktop/ws17-18/XUE-HU-Assignment1-1985735/Assignment1.build/CMakeFiles/Assignment.dir
-C:/Users/Iris/Desktop/ws17-18/XUE-HU-Assignment1-1985735/Assignment1.build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Iris/Desktop/ws17-18/XUE-HU-Assignment1-1985735/Assignment1.build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Iris/Desktop/ws17-18/XUE-HU-Assignment1-1985735/Assignment1.build/Common/CMakeFiles/GPUCommon.dir
