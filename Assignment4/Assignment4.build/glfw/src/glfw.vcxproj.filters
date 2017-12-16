@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\win32_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\win32_monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\win32_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\win32_tls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\win32_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\winmm_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\wgl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4.build\glfw\src\glfw_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\include\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\include\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\win32_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\win32_tls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\winmm_joystick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\wgl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B7B8827A-A3AD-3DB0-8A5B-93DAC7A6B55F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7DECD0CE-91D1-34AB-9375-FAB3F8AF9A2E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

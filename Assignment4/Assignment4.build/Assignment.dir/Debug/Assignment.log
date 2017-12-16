@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/Users/Iris/Desktop/ws17-18/GPGPU/Assignment4/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Iris/Desktop/ws17-18/GPGPU/Assignment4.build/CMakeFiles/generate.stamp is up-to-date.
+  CClothSimulationTask.cpp
+  CParticleSystemTask.cpp
+  CAssignment4.cpp
+C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CAssignment4.cpp(218): warning C4996: 'clCreateCommandQueue': 被声明为已否决
+  C:\Intel\OpenCL\sdk\include\CL/cl.h(1428): note: 参见“clCreateCommandQueue”的声明
+  CTriMesh.cpp
+  CGLTexture.cpp
+  GLCommon.cpp
+  main.cpp
+  HLSL.cpp
+C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\HLSL.cpp(20): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\HLSL.cpp(24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\HLSL.cpp(28): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\HLSL.cpp(32): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  Assignment.vcxproj -> C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4.build\Debug\Assignment.exe
+  Assignment.vcxproj -> C:/Users/Iris/Desktop/ws17-18/GPGPU/Assignment4.build/Debug/Assignment.pdb (Full PDB)

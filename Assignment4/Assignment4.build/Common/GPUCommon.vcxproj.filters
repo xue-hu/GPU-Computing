@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\CAssignmentBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\CLUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\CTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\CAssignmentBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\CLUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\CTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\CommonDefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\IComputeTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\IGUIEnabledComputeTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B7B8827A-A3AD-3DB0-8A5B-93DAC7A6B55F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7DECD0CE-91D1-34AB-9375-FAB3F8AF9A2E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

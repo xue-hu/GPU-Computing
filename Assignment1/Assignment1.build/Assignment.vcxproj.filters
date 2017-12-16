@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\XUE-HU-Assignment1-1985735\Assignment1\CAssignment1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\XUE-HU-Assignment1-1985735\Assignment1\CMatrixRotateTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\XUE-HU-Assignment1-1985735\Assignment1\CSimpleArraysTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\XUE-HU-Assignment1-1985735\Assignment1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\XUE-HU-Assignment1-1985735\Assignment1\CAssignment1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\XUE-HU-Assignment1-1985735\Assignment1\CMatrixRotateTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\XUE-HU-Assignment1-1985735\Assignment1\CSimpleArraysTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Iris\Desktop\ws17-18\XUE-HU-Assignment1-1985735\Assignment1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Iris\Desktop\ws17-18\XUE-HU-Assignment1-1985735\Assignment1\MatrixRot.cl" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\XUE-HU-Assignment1-1985735\Assignment1\VectorAdd.cl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E1077049-4042-34BE-A73B-471BDAD4710F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4F03108D-0521-35A3-B969-F67BB7FDC27B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

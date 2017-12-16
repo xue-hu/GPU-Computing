@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CClothSimulationTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CParticleSystemTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CAssignment4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CTriMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CGLTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\GLCommon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\HLSL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CClothSimulationTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CParticleSystemTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CAssignment4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CTriMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CGLTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\GLCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\HLSL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\HLSLEx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\clothsim.cl" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\ParticleSystem.cl" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\Scan.cl" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\forcefield.frag" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\mesh.frag" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\meshtextured.frag" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\particles.frag" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\forcefield.vert" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\mesh.vert" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\meshtextured.vert" />
+    <None Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4\particles.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B7B8827A-A3AD-3DB0-8A5B-93DAC7A6B55F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7DECD0CE-91D1-34AB-9375-FAB3F8AF9A2E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

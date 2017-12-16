@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/Iris/Desktop/ws17-18/GPGPU/Common/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Iris/Desktop/ws17-18/GPGPU/Assignment2.build/Common/CMakeFiles/generate.stamp is up-to-date.
+  CAssignmentBase.cpp
+C:\Users\Iris\Desktop\ws17-18\GPGPU\Common\CAssignmentBase.cpp(167): warning C4996: 'clCreateCommandQueue': 被声明为已否决
+  C:\Intel\OpenCL\sdk\include\CL/cl.h(1428): note: 参见“clCreateCommandQueue”的声明
+  CLUtil.cpp
+  CTimer.cpp
+  正在生成代码...
+  GPUCommon.vcxproj -> C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment2.build\Common\Debug\GPUCommon.lib

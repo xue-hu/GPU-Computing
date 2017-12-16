@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Iris\Desktop\ws17-18\GPGPU\Assignment4.build\CMakeFiles\f6a78490fa501b20c26824c8149e7e08\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C6053016-7ACC-3CB2-9BB2-6F9551142B96}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
